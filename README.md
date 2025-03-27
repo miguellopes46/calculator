@@ -6,6 +6,7 @@ This RESTful API provides the basic functionalities of a calculator. Communicati
 To build and run this project, you only need:
 
 - Only Docker (https://www.docker.com/) - everything runs on Docker
+- (Internet connection)
 
 ## Build and Run the Project
 
