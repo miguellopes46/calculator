@@ -4,5 +4,7 @@
 
 - The tests may not run correctly, and I didn't fully validate them, but I included unit tests for the calculator module anyway, as I understand their importance and have written them professionally in the past.
 
+- Nevertheless, I found this challenge enjoyable and stimulating, as it pushed me to revisit concepts I hadn't used in a while. I'm looking forward to finishing it properly, as it's a well-designed challenge and a great opportunity to sharpen my skills.
+
 Kind Regards,
 Miguel Lopes
