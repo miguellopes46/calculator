@@ -64,7 +64,7 @@ class CalculatorServiceTest {
         BigDecimal b = new BigDecimal("3");
         BigDecimal result = calculatorService.calculate("division", a, b);
 
-        // Should be approximately 0.333... with high precision
+        // testing 0,3333
         BigDecimal expected = a.divide(b, MathContext.DECIMAL128);
         assertThat(result).isEqualByComparingTo(expected);
     }
