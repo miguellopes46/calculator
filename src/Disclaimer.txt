@@ -1,0 +1,8 @@
+- Unfortunately, this week was particularly challenging for me both professionally and personally, which prevented me from dedicating the necessary time to complete this challenge as thoroughly as I would have liked. So, as said in the Readme of GIT, the calculator could not read messages from the Kafka, although it is well connected and no message error found (maybe a Deserealized error. Although, every container is running properly in Docker.
+
+- Also, the needing to install IntelliJ and revisit Spring Boot annotations, as I’m currently working with C#, .NET, and ASP.NET Core, took me some time. It also took time to refresh my knowledge of Kafka, which I last used around 2.5 years ago in a project (https://github.com/miguellopes46/Message-Oriented-Middleware-and-Kafka-Streams.).
+
+- The tests may not run correctly, and I didn't fully validate them, but I included unit tests for the calculator module anyway, as I understand their importance and have written them professionally in the past.
+
+Kind Regards,
+Miguel Lopes
