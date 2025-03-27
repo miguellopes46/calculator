@@ -7,6 +7,7 @@ To build and run this project, you only need:
 
 - Only Docker (https://www.docker.com/) - everything runs on Docker
 - (Internet connection)
+- (If needed to build the Jar's, a Java version should be installed, and use the commands in Windows Powershell, to build the modules: ./mvnw clean install
 
 ## Build and Run the Project
 
